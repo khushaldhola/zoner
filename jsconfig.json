@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./*"]
+      "@*": ["./*"]
+      // "@/*": ["./*"] - remove / so we can check everything from root dir
     }
   }
 }
